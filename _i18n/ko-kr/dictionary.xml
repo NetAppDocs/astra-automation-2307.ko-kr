@@ -756,7 +756,6 @@
   <block id="2d49337d583eac8056d564e348f43744" category="list-text">애플리케이션 복구는 클론 작업과 매우 유사합니다.</block>
   <block id="af5cd1844721ca591969375d08152b0e" category="list-text">앱을 복구할 때는 백업 또는 스냅샷을 제공해야 합니다.</block>
   <block id="b844ee2db8fd78557f753d0c04015c4a" category="summary">Astra Control은 Kubernetes 애플리케이션에 데이터 라이프사이클 관리를 제공하는 NetApp 소프트웨어 제품입니다. 환경에 따라 두 가지 구축 모델을 사용할 수 있습니다. Astra Control Center와 Astra Control Service는 릴리즈에 따라 동일한 REST API를 공유합니다. REST API 및 기타 관련 자동화 기술을 사용하여 Astra Control 배포를 관리할 수 있습니다.</block>
-  <block id="1a0ca7f0a5aea880c24d544b4655d6ed" category="doc">Astra Control Automation 설명서</block>
   <block id="a5f871c981a398cb87374a1ff883bcca" category="summary">다음 스크립트를 사용하여 Astra 계정의 응용 프로그램을 나열할 수 있습니다.</block>
   <block id="0dca49fc2e144253162b8cbd94b3b83c" category="admonition">을 참조하십시오 <block ref="471a805638f43cfd34206d9398385425" category="inline-link-macro-rx"></block> 필요한 JSON 입력 파일의 예</block>
   <block id="c30daace746a4b0fbccf1758ed0282eb" category="summary">Python은 데이터 센터 자동화를 위한 인기 있는 개발 언어입니다. Python의 기본 기능과 여러 가지 공통 패키지를 함께 사용하기 전에 환경 및 필요한 입력 파일을 준비해야 합니다.</block>
@@ -1250,4 +1249,5 @@
   <block id="5a31da03b445627c9d11d99efb7cc803" category="cell">23.06</block>
   <block id="22a15af82a20adf60996d549baa48d24" category="cell">권한 리소스는 시스템 내의 작업과 관련된 권한을 나타냅니다. API는 권한에 대한 읽기 전용 액세스를 제공합니다.</block>
   <block id="8fe5430b97accfa7b33d3c5887f90718" category="cell">역할 리소스는 시스템에서 사용 가능한 역할을 나타냅니다. API는 역할에 대한 읽기 전용 액세스를 제공합니다.</block>
+  <block id="319cbcbe823e54bc4431c0aeca14c9d6" category="sidebar">Astra Control Automation 23.07 설명서</block>
 </blocks>
